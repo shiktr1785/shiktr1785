@@ -1,32 +1,87 @@
-# Prerequisites
-*.d
+# Ignore Mac system files
+.DS_Store
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Ignore Python compiled files and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
 
-# Precompiled Headers
-*.gch
-*.pch
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Ignore Visual Studio Code settings
+.vscode/
 
-# Fortran module files
-*.mod
-*.smod
+# Ignore build artifacts for Python
+build/
+dist/
+*.egg-info/
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Ignore logs and temp files
+*.log
+*.tmp
 
-# Executables
-*.exe
-*.out
-*.app
+# Ignore FPGA and EDA tool files
+*.jou
+*.log
+*.xil
+*.str
+*.bak
+*.rpt
+*.twr
+*.xml
+*.bit
+*.fasm
+*.ucf
+*.mcs
+*.rbt
+*.elf
+*.sysdef
+*.sysproj
+*.sdk
+*.mem
+*.pdi
+*.bin
+*.bif
+
+# Ignore generated files for Cadence tools
+*.oa
+*.cdslck
+*.cdsinit
+*.cdsenv
+*.cdswip
+*.cxt
+*.ocn
+*.scs
+*.sdb
+*.stb
+*.trn
+*.xt
+*.log
+*.cfg
+
+# Ignore temporary files from other tools
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore Eclipse project files
+.project
+.classpath
+.cproject
+.settings/
+
+# Ignore NetBeans project files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
