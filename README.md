@@ -1,6 +1,6 @@
 # Hi there, I'm Shikhar Mani Tripathi 👋
 
-![Profile views](https://gpvc.arturio.dev/shiktr1785)
+![Profile views](https://shields.io/github/followers/shiktr1785?style=social)
 
 Aspiring Electronics & Communication Engineer focusing on VLSI Design, RF-CMOS, and programming. Currently pursuing my M.Sc. Integrated at UIET, Kanpur.
 
