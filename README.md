@@ -6,7 +6,7 @@ Aspiring Electronics & Communication Engineer focusing on VLSI Design, RF-CMOS, 
 
 ## 🛠️ Technical Skills
 - **Languages:** C/C++, Python, Verilog/VHDL, Java
-- **Tools:** Jupyter, Visual Studio, LTSpice, Xilinx Vivado, AIMSpice, Virtuoso, Openlane
+- **Tools:** Jupyter, Visual Studio, LTSpice, Xilinx Vivado, AIMSpice, Virtuoso, Openlane, Microwave Office
 - **OS:** Windows, Linux, Android
 
 
