@@ -21,6 +21,7 @@ Aspiring Electronics & Communication Engineer focusing on VLSI Design, RF-CMOS, 
 - RF-CMOS Integrated Circuits - IIIT Allahabad
 - Quantum Communication & ML - IIT BHU
 - Robust VLSI Circuit Design - IIT Roorkee
+- Secure Computing Techniques - ISSS
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiktr1785)
