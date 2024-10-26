@@ -26,7 +26,7 @@ Aspiring Electronics & Communication Engineer focusing on VLSI Design, RF-CMOS, 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiktr1785)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shiktr1785)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)]
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/shiktr1785)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shiktr1785&show_icons=true&theme=radical)
