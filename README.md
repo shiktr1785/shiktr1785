@@ -5,7 +5,7 @@
 Aspiring Electronics & Communication Engineer focusing on VLSI Design, RF-CMOS, and programming. Currently pursuing my M.Sc. Integrated at UIET, Kanpur.
 
 ## ✅ Projects
-- RTL-to-GDSII Implementation of 100 tap Digital FIR Filter using OpenROAD
+- RTL-to-GDSII Implementation of 100-tap Digital FIR Filter using OpenROAD
 
 ## 🛠️ Technical Skills
 - **Languages:** C/C++, Python, Verilog/VHDL, Java
