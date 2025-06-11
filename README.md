@@ -35,5 +35,5 @@ Aspiring Electronics & Communication Engineer focusing on VLSI Design, RF-CMOS, 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shiktr1785&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiktr1785&layout=compact&theme=radical)
 
-_Last updated: October 27, 2024_
+_Last updated: June 11, 2025_
 
