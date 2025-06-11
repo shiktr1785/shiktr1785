@@ -1,0 +1,24 @@
+name: Auto-update README Date
+
+on:
+  push:
+    branches: [main]  # Change if your default branch is not 'main'
+  workflow_dispatch:  # Optional: Allows manual trigger in GitHub UI
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update date in README
+        run: |
+          DATE=$(date +"%B %d, %Y")
+          sed -i "s/_Last updated: .*/_Last updated: $DATE_/" README.md
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m "Auto-update README date" || echo "No changes to commit"
+          git push
